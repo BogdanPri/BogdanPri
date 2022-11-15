@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning:
       
-      Mechanical Engineering @ LJMU, Japanese, Python, Matlab.
+      Mechanical Engineering @ LJMU, Japanese, Python, Matlab, Arduino.
      
 <!---
 - 💞️ I’m looking to collaborate on ...
