@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/BogdanPri">
-    <img src="https://raw.githubusercontent.com/BogdanPri/BogdanPri/main/.github/images/BogdanPricope.svg" alt="Bogdan Pricope" /></a>
+    <img src="https://raw.githubusercontent.com/BogdanPri/BogdanPri/main/.github/images/red.png" alt="Bogdan Pricope" /></a>
 </p>
 
 <p align="center">
