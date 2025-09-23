@@ -1,10 +1,17 @@
-<p align="center">
+<!-- <p align="center">
 <picture>
   <a href="https://github.com/BogdanPri">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BogdanPri/BogdanPri/main/.github/images/BP-White.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BogdanPri/BogdanPri/main/.github/images/BP-Black.svg">
     <img src="https://raw.githubusercontent.com/BogdanPri/BogdanPri/main/.github/images/BP-Red.svg" alt="Bogdan Pricope" /></a>
 </picture>
+</p> -->
+
+<p align="center">
+  <a href="https://github.com/BogdanPri">
+    <img src="https://raw.githubusercontent.com/BogdanPri/BogdanPri/main/.github/images/BP-Black.svg#gh-light-mode-only" alt="Bogdan Pricope (light mode)" />
+    <img src="https://raw.githubusercontent.com/BogdanPri/BogdanPri/main/.github/images/BP-White.svg#gh-dark-mode-only" alt="Bogdan Pricope (dark mode)" />
+  </a>
 </p>
 
 <p align="center">
