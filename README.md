@@ -1,10 +1,11 @@
 <p align="center">
-<picture>
   <a href="https://github.com/BogdanPri">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BogdanPri/BogdanPri/main/.github/images/BP-White.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BogdanPri/BogdanPri/main/.github/images/BP-Black.svg">
-    <img src="https://raw.githubusercontent.com/BogdanPri/BogdanPri/main/.github/images/BP-Red.svg" alt="Bogdan Pricope" /></a>
-</picture>
+    <img src="https://raw.githubusercontent.com/BogdanPri/BogdanPri/main/.github/images/BP-Red.svg" alt="Bogdan Pricope" />
+  </picture>
+  </a>
 </p>
 
 <p align="center">
