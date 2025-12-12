@@ -27,6 +27,4 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BogdanPri&theme=default&show_icons=true&hide_border=true&count_private=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/BogdanPri?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
