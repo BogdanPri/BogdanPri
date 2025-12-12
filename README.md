@@ -28,5 +28,7 @@
 ---
 
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&preferLogin=false">
-  <img  alt="BogdanPri's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/BogdanPri?cardType=level&preferLogin=false" />  
+  <picture>
+  <img  alt="BogdanPri's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/BogdanPri?cardType=level&preferLogin=false" />
+  </picture>
 </a>
