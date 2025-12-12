@@ -27,6 +27,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanPri&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BogdanPri&theme=default&show_icons=true&hide_border=true&count_private=true)
 
 ![Bogdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BogdanPri&show_icons=true&theme=radical)
