@@ -27,4 +27,11 @@
 
 ---
 
-[![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/BogdanPri?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+<p align="center">
+  <a href="https://github.com/BogdanPri">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/BogdanPri?cardType=level&theme=github-dark&preferLogin=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/BogdanPri?cardType=level&theme=github&preferLogin=false">
+  </picture>
+  </a>
+</p>
