@@ -29,8 +29,8 @@
 
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&preferLogin=false">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/BogdanPri?cardType=level&theme=github-dark&preferLogin=false"
-    <source media="(prefers-color-scheme: light)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/BogdanPri?cardType=level&theme=github&preferLogin=false" 
+    <source media="(prefers-color-scheme: dark)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/BogdanPri?cardType=level&theme=github-dark&preferLogin=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/BogdanPri?cardType=level&theme=github&preferLogin=false"  />
     <img alt="BogdanPri's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/BogdanPri?cardType=level&preferLogin=false" />
   </picture>
 </a>
