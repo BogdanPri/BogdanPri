@@ -25,8 +25,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BogdanPri/BogdanPri/output/pacman-contribution-graph.svg">
 </picture>
 
----
-
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&preferLogin=false">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/BogdanPri?cardType=level&theme=github-dark&preferLogin=false" />
@@ -35,4 +33,4 @@
   </picture>
 </a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanPri"/>
+---
