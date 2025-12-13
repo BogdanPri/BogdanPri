@@ -36,8 +36,6 @@
 </a>
 </p>
 
-<br>
-
 <a href="https://gh-stats-gen.vercel.app/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanPri&theme=bear&show_icons=true&hide_border=true&layout=compact" />
@@ -45,8 +43,6 @@
     <img alt="BogdanPri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanPri&theme=bear&show_icons=true&hide_border=true&layout=compact" height="170" align="right" />
   </picture>
 </a>
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BogdanPri/BogdanPri/output/pacman-contribution-graph-dark.svg">
