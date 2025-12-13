@@ -19,7 +19,6 @@
   </a>
 </p>
 
-<p align="center">
 <a href="https://gh-stats-gen.vercel.app/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BogdanPri&theme=bear&show_icons=true&hide_border=true&count_private=true" />
@@ -34,7 +33,6 @@
     <img alt="BogdanPri's Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanPri&theme=bear&hide_border=true" height="170" align="right" />
   </picture>
 </a>
-</p>
 
 <a href="https://gh-stats-gen.vercel.app/">
   <picture>
