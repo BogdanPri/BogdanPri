@@ -36,8 +36,6 @@
   </a>
 </p>
 
-<br clear="all">
-
 <p>
   <a href="https://gh-stats-gen.vercel.app/">
     <picture>
@@ -48,12 +46,12 @@
   </a>
 </p>
 
-<br clear="all">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BogdanPri/BogdanPri/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BogdanPri/BogdanPri/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BogdanPri/BogdanPri/output/pacman-contribution-graph.svg">
-</picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BogdanPri/BogdanPri/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BogdanPri/BogdanPri/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BogdanPri/BogdanPri/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
 <!-- ![](https://visitor-badge-deno.deno.dev/BogdanPri.BogdanPir.svg) -->
