@@ -27,13 +27,6 @@
       <img alt="BogdanPri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BogdanPri&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
     </picture>
   </a>
-  <!-- <a href="https://gh-stats-gen.vercel.app/" >
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=BogdanPri&theme=bear&hide_border=true" />
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=BogdanPri&theme=default&hide_border=true" />
-      <img alt="BogdanPri's Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanPri&theme=bear&hide_border=true" height="165" />
-    </picture>
-  </a> -->
 </p>
 
 <p>
