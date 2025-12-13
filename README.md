@@ -27,13 +27,13 @@
     <img alt="BogdanPri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BogdanPri&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" />
   </picture>
 </a>
-<!-- <a href="https://gh-stats-gen.vercel.app/">
+<a href="https://gh-stats-gen.vercel.app/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=BogdanPri&theme=bear&hide_border=true" />
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=BogdanPri&theme=default&hide_border=true" />
-    <img alt="BogdanPri's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanPri&theme=bear&hide_border=true" height="195" />
+    <img alt="BogdanPri's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanPri&theme=bear&hide_border=true" height="150" />
   </picture>
-</a> -->
+</a>
 <a href="https://gh-stats-gen.vercel.app/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanPri&theme=bear&show_icons=true&hide_border=true&layout=compact" />
