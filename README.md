@@ -24,14 +24,14 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BogdanPri&theme=bear&show_icons=true&hide_border=true&count_private=true" />
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BogdanPri&theme=default&show_icons=true&hide_border=true&count_private=true" />
-      <img align="left" alt="BogdanPri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BogdanPri&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="165" />
+      <img alt="BogdanPri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BogdanPri&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="165" />
     </picture>
   </a>
   <a href="https://gh-stats-gen.vercel.app/" >
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=BogdanPri&theme=bear&hide_border=true" />
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=BogdanPri&theme=default&hide_border=true" />
-      <img align="right" alt="BogdanPri's Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanPri&theme=bear&hide_border=true" height="165" />
+      <img alt="BogdanPri's Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanPri&theme=bear&hide_border=true" height="165" />
     </picture>
   </a>
 </p>
