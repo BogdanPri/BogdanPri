@@ -19,6 +19,8 @@
   </a>
 </p>
 
+### Tools & Langs
+
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
   <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-ee5f0f?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPg0KPHN2ZyBmaWxsPSIjZmZmZmZmIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDUxMiA1MTIiIHhtbDpzcGFjZT0icHJlc2VydmUiPgoKPGcgaWQ9IjUxNTFlMGM4NDkyZTUxMDNjMDk2YWY4OGE1MWZiZTJhIj4KCjxwYXRoIGRpc3BsYXk9ImlubGluZSIgZD0iTTM0My4xNTgsMjQuNzU5bDAuMDA5LTAuNzRjLTAuMDk2LDAtMC4xOTEtMC4wMDQtMC4yODctMC4wMDRjLTEuMzE4LDAtMi42MDQsMC4xMTYtMy44NjcsMC4zMTIgICBjLTIuMDEzLDAuMTA4LTMuOTg0LDAuNjY1LTUuOTMxLDEuNjhjLTE0LjY5NSw2LjAzLTI2LjI4MSwyNS4yOC00MC4yNzUsNDguNTg5Yy0yMC40OTMsMzQuMTQyLTQ1Ljk5Myw3Ni42MjktODkuNzI0LDg3LjMxMyAgIGMtMTcuMjUsNC4yMDgtMzcuNjM5LDI4LjY0Ny01Ny4wNDYsNTMuMzJjLTEuNzcxLDIuMjQ1LTMuNDAyLDQuMzE2LTQuODU3LDYuMTM4bC0wLjQ4MiwwLjU5OUwwLjUsMjc5Ljk1bDExMy42NTcsODAuMDExICAgYzQ3LjcxOS0yMi40MSw2Mi4zMiwyMC41MSwxMDEuODM0LDEyOC4wMjRjNzkuNTE1LTguOTI1LDEzMi44Ny0xMzYuMDA5LDE3Ny4xODItMTQ0LjM1OSAgIGM1NC45NTUtMTAuMzUxLDU5LjU2MywzMS43MjksMTE4LjMyNyw2Ny45ODNDNDUyLjQ0OSwyODMuODY0LDM4OS43NzUsMzYuNjY5LDM0My4xNTgsMjQuNzU5eiBNMTcyLjAxOSwzMTYuMzEzbC01Ni43ODksMjguNzg1ICAgbC04OC4zODEtNjIuMjI0TDE0NS45OSwyMzMuNmwyMy4xMjUsMTcuMTg0bDM1LjM5NywyNi44NDdDMTk0LjYyLDI5MS4zMzIsMTgzLjg0NSwzMDQuMzY1LDE3Mi4wMTksMzE2LjMxM3ogTTIxMi4wNzgsMjY2Ljc5NyAgIGwtMzUuMjY0LTI2LjIwNmwtMjEuNTk1LTE2LjM4MWMwLjI4My0wLjM1NywwLjU2NS0wLjcyLDAuODU2LTEuMDg1YzEyLjQ1MS0xNS44MzIsMzUuNjMtNDUuMjkxLDUwLjA0LTQ4LjgxICAgYzQwLjE4OC05LjgxNyw2NS41ODgtNDEuOTU5LDg1LjQxNi03My4xODJDMjcyLjQxOCwxNDkuMzA3LDI0OC43MSwyMTIuMzUsMjEyLjA3OCwyNjYuNzk3eiI+Cgo8L3BhdGg+Cgo8L2c+Cgo8L3N2Zz4=&logoColor=white" />
@@ -54,6 +56,24 @@
     </picture>
   </a>
 </p>
+
+<!-- <p>
+  <a href="https://www.github.com/BogdanPri">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/bpri98/">
+    <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
+  </a>
+  <a>
+    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff" />
+  </a>
+  <a>
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
+  </a>
+  <a>
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" />
+  </a>
+</p> -->
 
 <p>
   <picture>
