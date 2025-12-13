@@ -19,29 +19,31 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+
 <a href="https://gh-stats-gen.vercel.app/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BogdanPri&theme=bear&show_icons=true&hide_border=true&count_private=true" />
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BogdanPri&theme=default&show_icons=true&hide_border=true&count_private=true" />
-    <img alt="BogdanPri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BogdanPri&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="145" />
+    <img alt="BogdanPri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BogdanPri&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="175" align="left" />
   </picture>
 </a>
-<a href="https://gh-stats-gen.vercel.app/">
+<a href="https://gh-stats-gen.vercel.app/" >
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=BogdanPri&theme=bear&hide_border=true" />
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=BogdanPri&theme=default&hide_border=true" />
-    <img alt="BogdanPri's Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanPri&theme=bear&hide_border=true" height="145" />
+    <img alt="BogdanPri's Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanPri&theme=bear&hide_border=true" height="175" align="right" />
   </picture>
-</a>
+
+
+</div>
+
 <a href="https://gh-stats-gen.vercel.app/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanPri&theme=bear&show_icons=true&hide_border=true&layout=compact" />
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanPri&theme=default&show_icons=true&hide_border=true&layout=compact" />
-    <img alt="BogdanPri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanPri&theme=bear&show_icons=true&hide_border=true&layout=compact" height="145" />
+    <img alt="BogdanPri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanPri&theme=bear&show_icons=true&hide_border=true&layout=compact" height="175" />
   </picture>
 </a>
-</div>
 
 <br>
 
