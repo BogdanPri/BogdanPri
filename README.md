@@ -57,6 +57,7 @@
   </a>
 </p>
 
+### Where to Find Me
 <p>
   <a href="https://www.github.com/BogdanPri">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
@@ -67,10 +68,10 @@
   <!-- <a href="https://gitlab.com/BogdanPri1/BogdanPri1">
     <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff" />
   </a> -->
-  <!-- <a>
+  <a href="https://hub.docker.com/u/bogdanpri">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
   </a>
-  <a>
+  <!-- <a href="https://www.discordapp.com/users/1041410830765391872">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" />
   </a> -->
     <a href="https://orcid.org/0000-0002-6985-0228">
