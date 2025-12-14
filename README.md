@@ -33,7 +33,7 @@
   <img alt="Emacs" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white" />
   <img alt="VS Code" src="https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=vsc&logoColor=white" />
   <img alt="EndeavourOS" src="https://img.shields.io/badge/EndeavourOS-7e3ebe?logo=endeavouros&logoColor=fff" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+  <!-- <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" /> -->
   <img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
 </p>
 
