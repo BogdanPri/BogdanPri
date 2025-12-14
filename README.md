@@ -57,23 +57,26 @@
   </a>
 </p>
 
-<!-- <p>
+<p>
   <a href="https://www.github.com/BogdanPri">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/bpri98/">
+  <!-- <a href="https://www.linkedin.com/in/bpri98/">
     <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
-  </a>
-  <a>
+  </a> -->
+  <!-- <a href="https://gitlab.com/BogdanPri1/BogdanPri1">
     <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff" />
-  </a>
-  <a>
+  </a> -->
+  <!-- <a>
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
   </a>
   <a>
     <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" />
+  </a> -->
+    <a href="https://orcid.org/0000-0002-6985-0228">
+    <img alt="ORCID" src="https://img.shields.io/badge/ORCID-%9bc63b.svg?&logo=orcid&logoColor=white" />
   </a>
-</p> -->
+</p>
 
 <p>
   <picture>
