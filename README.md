@@ -50,9 +50,9 @@
 <p>
   <a href="https://gh-stats-gen.vercel.app/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanPri&theme=bear&show_icons=true&hide_border=true&layout=compact" />
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanPri&theme=default&show_icons=true&hide_border=true&layout=compact" />
-      <img alt="BogdanPri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanPri&theme=bear&show_icons=true&hide_border=true&layout=compact" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanPri&hide=tex&theme=bear&show_icons=true&hide_border=true&layout=compact" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanPri&hide=textheme=default&show_icons=true&hide_border=true&layout=compact" />
+      <img alt="BogdanPri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanPri&hide=tex&theme=bear&show_icons=true&hide_border=true&layout=compact" />
     </picture>
   </a>
 </p>
