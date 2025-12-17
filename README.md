@@ -30,7 +30,7 @@
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&amp;logoColor=fff" />
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?logo=git&amp;logoColor=fff" />
   <img alt="NeoVim" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&amp;logoColor=fff" />
-  <img alt="Emacs" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&amp;logo=gnu-emacs&amp;logoColor=white" />
+  <!-- <img alt="Emacs" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&amp;logo=gnu-emacs&amp;logoColor=white" /> -->
   <img alt="VS Code" src="https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=vsc&amp;logoColor=white" />
   <img alt="EndeavourOS" src="https://img.shields.io/badge/EndeavourOS-7e3ebe?logo=endeavouros&amp;logoColor=fff" />
   <!-- <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&amp;logoColor=white" /> -->
