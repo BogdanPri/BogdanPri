@@ -37,25 +37,22 @@
   <img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&amp;logoColor=white" />
 </p>
 
-<p>
+<div align="center">
   <a href="https://gh-stats-gen.vercel.app/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-cpah.vercel.app/api?username=BogdanPri&amp;theme=bear&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" />
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-cpah.vercel.app/api?username=BogdanPri&amp;theme=default&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" />
-      <img alt="BogdanPri's GitHub Stats" src="https://github-readme-stats-cpah.vercel.app/api?username=BogdanPri&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" />
+      <img alt="BogdanPri's GitHub Stats" height="175" src="https://github-readme-stats-cpah.vercel.app/api?username=BogdanPri&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" />
     </picture>
-  </a>
-</p>
-
-<p>
+  </a> &nbsp;
   <a href="https://gh-stats-gen.vercel.app/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-cpah.vercel.app/api/top-langs/?username=BogdanPri&amp;hide=g-code%2Ctex&amp;exclude_repo=Scripts&amp;theme=bear&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" />
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-cpah.vercel.app/api/top-langs/?username=BogdanPri&amp;theme=default&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" />
-      <img alt="BogdanPri's Top Languages" src="https://github-readme-stats-cpah.vercel.app/api/top-langs/?username=BogdanPri&amp;hide=tex&amp;theme=bear&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" />
+      <img alt="BogdanPri's Top Languages" height="175" src="https://github-readme-stats-cpah.vercel.app/api/top-langs/?username=BogdanPri&amp;hide=tex&amp;theme=bear&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" />
     </picture>
   </a>
-</p>
+</div>
 
 ### Where to Find Me
 <p>
