@@ -41,15 +41,15 @@
   <a href="https://gh-stats-gen.vercel.app/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-cpah.vercel.app/api?username=BogdanPri&amp;theme=bear&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" />
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-cpah.vercel.app/api?username=BogdanPri&amp;theme=default&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-cpah.vercel.app/api?username=BogdanPri&amp;theme=default&amp;show_icons=true&amp;hide_border=false&amp;count_private=true" />
       <img alt="BogdanPri's GitHub Stats" height="175" src="https://github-readme-stats-cpah.vercel.app/api?username=BogdanPri&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" />
     </picture>
   </a> &nbsp;
   <a href="https://gh-stats-gen.vercel.app/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-cpah.vercel.app/api/top-langs/?username=BogdanPri&amp;hide=g-code%2Ctex&amp;exclude_repo=Scripts&amp;theme=bear&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" />
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-cpah.vercel.app/api/top-langs/?username=BogdanPri&amp;theme=default&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" />
-      <img alt="BogdanPri's Top Languages" height="175" src="https://github-readme-stats-cpah.vercel.app/api/top-langs/?username=BogdanPri&amp;hide=tex&amp;theme=bear&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-cpah.vercel.app/api/top-langs/?username=BogdanPri&amp;theme=default&amp;hide=g-code%2Ctex&amp;exclude_repo=Scripts&amp;show_icons=true&amp;hide_border=false&amp;layout=compact" />
+      <img alt="BogdanPri's Top Languages" height="175" src="https://github-readme-stats-cpah.vercel.app/api/top-langs/?username=BogdanPri&amp;hide=g-code%2Ctex&amp;exclude_repo=Scripts&amp;theme=bear&amp;show_icons=true&amp;hide_border=false&amp;layout=compact" />
     </picture>
   </a>
 </div>
