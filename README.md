@@ -74,6 +74,9 @@
     <a href="https://orcid.org/0000-0002-6985-0228">
     <img alt="ORCID" src="https://img.shields.io/badge/ORCID-%9bc63b.svg?&amp;logo=orcid&amp;logoColor=white" />
   </a>
+  <a href="https://pypi.org/user/BogdanPri/">
+    <img alt="PyPI" src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&amp;logoColor=fff" />
+  </a>
 </p>
 
 <p>
