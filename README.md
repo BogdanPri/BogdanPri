@@ -37,7 +37,7 @@
   <img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&amp;logoColor=white" />
 </p>
 
-<div align="left">
+<div align="center">
   <a href="https://gh-stats-gen.vercel.app/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-cpah.vercel.app/api?username=BogdanPri&amp;theme=bear&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" />
