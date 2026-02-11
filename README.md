@@ -37,6 +37,8 @@
   <img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&amp;logoColor=white" />
 </p>
 
+### Stats
+
 <div align="center">
   <a href="https://gh-stats-gen.vercel.app/">
     <picture>
