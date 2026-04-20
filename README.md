@@ -59,7 +59,12 @@
   </a>
 </div> -->
 
-### 📍 Where to Find Me
+### 🛠️ Projects & Contributions
+
+- **[TROPICO](https://github.com/strath-ace-labs/TROPICO)**<br>
+  Trajectory optimisation and optimal control framework for multi-phase spaceplane ascent and re-entry missions
+
+### 📍 Where to find me
 <p>
   <a href="https://www.github.com/BogdanPri">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&amp;logoColor=white" />
