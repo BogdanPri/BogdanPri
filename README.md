@@ -62,7 +62,7 @@
 ### 🛠️ Projects & Contributions
 
 - **[TROPICO](https://github.com/strath-ace-labs/TROPICO)**<br>
-  Trajectory optimisation and optimal control framework for multi-phase spaceplane ascent and re-entry missions
+  TRajectory OPtimisation, Integration & Control framework for multi-phase launch vehicles and re-entry missions.
 
 ### 📍 Where to find me
 <p>
